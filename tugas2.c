@@ -1,5 +1,11 @@
-extern int scanf(const char *format, ...);
-extern int printf(const char *format, ...);
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+
+  #include <stdio.h>
+
 int main() {
     // a = kartu kesava, b = kartu devara, c = kartu shita
     long long a, b, c;

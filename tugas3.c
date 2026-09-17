@@ -1,10 +1,5 @@
-typedef unsigned long long size_t;
-extern int scanf(const char *, ...);
-extern int printf(const char *, ...);
-extern void *malloc(size_t);
-extern void free(void *);
-extern void qsort(void *, size_t, size_t,
-                        int (*)(const void *, const void *));
+#include <stdio.h>
+#include <stdlib.h>
 
 #define MOD 1000000007
 
