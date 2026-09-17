@@ -1,5 +1,3 @@
-/* Header standar tidak terdeteksi oleh IntelliSense pada konfigurasi saat ini.
-    Deklarasi berikut menjaga file tetap dapat dikompilasi sementara itu. */
 typedef unsigned long long size_t;
 extern int scanf(const char *, ...);
 extern int printf(const char *, ...);
